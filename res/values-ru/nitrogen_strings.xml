@@ -331,5 +331,9 @@
     <!-- Notifications while screen on -->
     <string name="notification_sound_vib_screen_on_title">Звук и вибрация при включенном экране</string>
     <string name="notification_sound_vib_screen_on_summary">Воспроизводить звук и вибрацию при получении уведомлений когда экран включен</string>
+
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Разблокировка отпечатком</string>
+    <string name="fp_unlock_keystore_summary">Разблокировать устройство после перезагрузки без PIN/Пароля/Граф. ключа\nПрим.: Используйте на свой страх и риск!</string>
 </resources>
 
