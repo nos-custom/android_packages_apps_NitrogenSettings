@@ -335,5 +335,11 @@
     <!-- Fingerprint unlock keystore -->
     <string name="fp_unlock_keystore_title">Разблокировка отпечатком</string>
     <string name="fp_unlock_keystore_summary">Разблокировать устройство после перезагрузки без PIN/Пароля/Граф. ключа\nПрим.: Используйте на свой страх и риск!</string>
+
+    <!-- Weather -->
+    <string name="weather_title">Погода</string>
+    <string name="weather_unit">Единица измерения температуры</string>
+    <string name="weather_unit_metric">Градусы Цельсия</string>
+    <string name="weather_unit_imperial">Градусы Фаренгейта</string>
 </resources>
 
